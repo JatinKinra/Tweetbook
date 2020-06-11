@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Tweetbook</name>
+    </assembly>
+    <members>
+        <member name="M:Tweetbook.Controllers.V1.PostsController.GetAll(System.String,Tweetbook.Contracts.V1.Requests.Queries.PaginationQuery)">
+            <summary>
+            Returns all the Posts in the system.
+            </summary>
+            <response code = "200">Returs all the posts in the system</response>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
